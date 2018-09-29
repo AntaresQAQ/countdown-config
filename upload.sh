@@ -1,3 +1,3 @@
 git add .
-git commit -m countdown.json
+git commit -m update
 git push origin master
